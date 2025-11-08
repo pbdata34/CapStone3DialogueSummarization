@@ -1,6 +1,14 @@
 # Dialogue Summarization Project
 
 By Pierre Hunter
+## Colab Links
+https://colab.research.google.com/drive/1_15DkZ77TXXPlISLBt3Wy9RuCe-iaGax?usp=sharing  (Final Notebook)
+
+https://colab.research.google.com/drive/1_15DkZ77TXXPlISLBt3Wy9RuCe-iaGax?usp=sharing  (MVP Version)
+
+https://docs.google.com/document/d/1lraBc32xHi8S1llUEGWYnbC0Vliyx5JHJ3ZkijKev-k/edit?tab=t.0 (FlowChart)
+
+https://docs.google.com/document/d/1r-OA6Uwz8Of7pHK76fwS8OVAWsB81Cgey_Jaw0J_eGQ/edit?tab=t.0 (Project Pitch)
 
 ## Problem Statement and Business Context
 
@@ -32,3 +40,5 @@ Main limitation: trained on 5,000 samples instead of full 14,731 due to GPU time
 ## References
 
 SAMSum Corpus: https://huggingface.co/datasets/knkarthick/dialogsum
+
+
